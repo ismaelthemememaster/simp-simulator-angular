@@ -1,0 +1,2 @@
+ignores: ["eslint*", "@angular-eslint/*","ngx-toastr","@types/*","husky","prettier", " @typescript-eslint/*","flexboxgrid"]
+skip-missing: true
